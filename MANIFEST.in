@@ -1,0 +1,6 @@
+graft src
+
+graft src/things
+
+include *.txt
+include *.png
