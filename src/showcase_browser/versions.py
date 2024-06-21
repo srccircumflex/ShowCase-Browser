@@ -1,4 +1,4 @@
-from __init__ import __version__
+from showcase_browser import __version__
 from urllib.request import urlopen
 from urllib.error import HTTPError, URLError
 from json import loads
